@@ -31,7 +31,7 @@
 
 ## 安装依赖
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -43,7 +43,7 @@ export FLASK_APP=main
 
 ## 运行
 
-```py
+```bash
 flask --app ./main.py run
 ```
 
