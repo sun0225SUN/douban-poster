@@ -1,6 +1,6 @@
 # 声明
 
-本项目基于该开源项目 https://github.com/sadjjk/DoubanPoster 开发，使用 Flask 框架构建
+本项目基于此开源项目 https://github.com/sadjjk/DoubanPoster 开发，使用 Flask 框架构建
 
 # 使用
 
